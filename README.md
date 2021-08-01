@@ -27,3 +27,5 @@ Run main.py file for training and test set evaluation .
 Here the optimizer is adam and loss function is 'Binary cross entropy' and train/test set is 0.66/0.33 .
 Accuracy score is 0.989
 
+### Output 
+![image](https://github.com/ask-santosh/Bank-Note-Authentication-By-Using-MLP-Multi-Layer-Perception-/blob/main/Screenshot%20from%202021-08-01%2022-13-56.png)
