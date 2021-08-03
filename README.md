@@ -31,5 +31,5 @@ Accuracy score is 0.989
 ![image](https://github.com/ask-santosh/Bank-Note-Authentication-By-Using-MLP-Multi-Layer-Perception-/blob/main/Screenshot%20from%202021-08-01%2022-13-56.png)
 
 #### After applying k-fold cross validation
-Accuracy Score: 1.000
+Accuracy Score: 1.000 & 
 Mean Accuracy Score: 1.000 
