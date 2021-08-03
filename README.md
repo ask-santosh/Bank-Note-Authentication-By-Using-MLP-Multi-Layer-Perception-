@@ -1,4 +1,4 @@
-# Bank-Note-Authentication-By-Using-MLP-Multi-Layer-Perception-
+# Bank-Note-Authentication-By-Using-MLP-Multi-Layer-Perceptron-
 ### Introduction
 This is a Multilayer Perceptron neural network model for the banknote binary classification dataset.
 This is just a simple example to demonstrate how a MLP model works .
