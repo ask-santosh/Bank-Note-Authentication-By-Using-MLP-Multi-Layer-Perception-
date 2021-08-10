@@ -6,6 +6,7 @@ from sklearn.metrics import accuracy_score
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense
 
+#Loading and reading of dataset file
 data = 'Dataset/banknote_authentication.csv'
 df = read_csv(data, header=None)
 print(df.shape)
